@@ -1,0 +1,6 @@
+{
+  "name": "RENT & REUSE – Campus Sharing Platform",
+  "description": "Need it? Don't buy it. Rent it. Borrow it. Reuse it. A dedicated college community sharing platform for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
